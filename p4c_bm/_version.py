@@ -20,5 +20,5 @@
 
 # -*- coding: utf-8 -*-
 
-version = '1.0.0'
+version = '1.3.0'
 build_version = None
